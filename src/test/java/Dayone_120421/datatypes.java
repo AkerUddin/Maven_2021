@@ -4,6 +4,7 @@ package Dayone_120421;
 
 public class datatypes {
     //we need a job
+    //test
     public static void main(String[] arg) {
 
         //define a string value
